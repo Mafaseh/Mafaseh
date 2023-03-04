@@ -31,7 +31,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafaseh&show_icons=true&hide=Jupyter%20Notebook&theme=great-gatsby&layout=compact)
 
 <h4 align="center">:eyes:&nbsp;&nbsp;&nbsp;Visits Count</h4>
-<p align = "center"> <a href="https://profile-counter.glitch.me/mafaseh/count.svg"/><img src='https://profile-counter.glitch.me/mafaseh/count.svg' alt='github' height='40'/></a>
+<p align = "center"> <a href="https://profile-counter.glitch.me/mafaseh/count.svg"/><img src='https://profile-counter.glitch.me/mafaseh/count.svg' alt='github' height='40' /></a>
 <br />
 <hr> 
   
