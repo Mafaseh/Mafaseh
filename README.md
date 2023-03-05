@@ -26,7 +26,7 @@
 <br />
 <hr>
 
-
+### 📈 My Stats!
 ![Mafaseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafaseh&show_icons=true&theme=great-gatsby)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafaseh&show_icons=true&hide=Jupyter%20Notebook&theme=great-gatsby&layout=compact)
 
